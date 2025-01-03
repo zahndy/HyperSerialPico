@@ -23,6 +23,7 @@ if (NOT PICO_PROGRAM_MAIN_ENTRY)
 
 	# User configuration section ends here
 	# Usually you don't need to change anything below this section
+ 
 endif()
 
 cmake_minimum_required(VERSION 3.13)
